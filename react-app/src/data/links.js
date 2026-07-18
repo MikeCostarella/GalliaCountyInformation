@@ -13,6 +13,8 @@ export const CATEGORIES = [
   "News & Media",
 ];
 
+export const AUDITOR_VENDOR = "Pivot Point";
+
 export const LINKS = [
   // ---------- Government ----------
   { name: "Gallia County Government", category: "Government", subcategory: "County", url: "https://www.gallianet.net/", description: "Official Gallia County government website and directory" },
